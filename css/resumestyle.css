@@ -1,0 +1,29 @@
+.education {
+  color: red;
+  font-style: oblique;
+  font-family: Roman;
+  font-size: 20px;
+  background-color: tan;
+}
+.experience {
+    color: red;
+    font-style: oblique;
+    font-family: Roman;
+    font-size: 20px;
+    background-color: tan;
+}
+
+.skills {
+    color: red;
+    font-style: oblique;
+    font-family: Roman;
+    font-size: 20px;
+    background-color: tan;
+}
+
+h2 {
+  text-decoration: underline;
+}
+h3 {
+  text-decoration: underline;
+}
