@@ -1,29 +1,38 @@
 .education {
-  color: red;
-  font-style: oblique;
+  color: blue;
   font-family: Roman;
   font-size: 20px;
   background-color: tan;
 }
 .experience {
-    color: red;
-    font-style: oblique;
+    color: blue;
     font-family: Roman;
     font-size: 20px;
     background-color: tan;
 }
 
 .skills {
-    color: red;
-    font-style: oblique;
+    color: blue;
     font-family: Roman;
     font-size: 20px;
     background-color: tan;
 }
-
+li {
+  margin-bottom: .5em;
+}
 h2 {
   text-decoration: underline;
 }
 h3 {
   text-decoration: underline;
+}
+#best {
+  color: red;
+  font-style: italic;
+}
+.contact {
+  font-size: 20px;
+}
+.space {
+  margin-bottom: -1em;
 }
